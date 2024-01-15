@@ -1,7 +1,7 @@
 Important points regading this code.
 If anyone can change here , so feel free to commit...
 
-I took a random dataset , that's a famous Titanic dataset.
+I took a random dataset , that's a Heart attack rate dataset.
 I used the pandas library for analysis. After completion of analysis , I splitted the dataset into train and test.
 
 then I applied ML algorithms. I just used two algorithms that are Logistic Regression and Decision Tree.
